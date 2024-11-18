@@ -1,3 +1,3 @@
-Error occurred: "Error uploading file: Method Not Allowed"
-Stack trace: "Error uploading file: Method Not Allowed"
+Error occurred: "Error uploading file: "
+Stack trace: "Error uploading file: "
 
