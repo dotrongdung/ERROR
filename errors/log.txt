@@ -1,3 +1,3 @@
-Error occurred: "Error ListItemEntityTypeFullName: Not Found"
-Stack trace: "Error ListItemEntityTypeFullName: Not Found"
+Error occurred: "Error uploading file: Method Not Allowed"
+Stack trace: "Error uploading file: Method Not Allowed"
 
